@@ -1,0 +1,7 @@
+C:\pleiades\Github\KitakoubouC\kitakoubou1\kitakoubou1\bin\Debug\kitakoubou1.exe.config
+C:\pleiades\Github\KitakoubouC\kitakoubou1\kitakoubou1\bin\Debug\kitakoubou1.exe
+C:\pleiades\Github\KitakoubouC\kitakoubou1\kitakoubou1\bin\Debug\kitakoubou1.pdb
+C:\pleiades\Github\KitakoubouC\kitakoubou1\kitakoubou1\obj\Debug\kitakoubou1.csproj.AssemblyReference.cache
+C:\pleiades\Github\KitakoubouC\kitakoubou1\kitakoubou1\obj\Debug\kitakoubou1.csproj.CoreCompileInputs.cache
+C:\pleiades\Github\KitakoubouC\kitakoubou1\kitakoubou1\obj\Debug\kitakoubou1.exe
+C:\pleiades\Github\KitakoubouC\kitakoubou1\kitakoubou1\obj\Debug\kitakoubou1.pdb
